@@ -52,12 +52,12 @@ The results show the accuracy of the model on the test set. The training and val
 To run this project, follow these steps:
 
 1. Open the Google Colab notebook:
-    [Open Colab Notebook](link_to_your_colab_notebook)
+    [Open Colab Notebook](https://colab.research.google.com/drive/1HUJAVwk7BIULO0EJN3cOJKjQWvin9JxC#scrollTo=p2wvL1Ynanpb)
 
 2. Ensure the runtime type is set to GPU:
     - Click on `Runtime` in the menu
     - Select `Change runtime type`
-    - Choose `GPU` from the `Hardware accelerator` dropdown
+    - Choose `T4 GPU` from the `Hardware accelerator` dropdown
 
 3. Run all cells in the notebook to execute the code.
 
