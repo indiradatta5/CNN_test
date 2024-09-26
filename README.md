@@ -12,7 +12,7 @@ This project demonstrates the implementation of a Convolutional Neural Network (
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 
 
@@ -73,6 +73,3 @@ These packages are typically pre-installed in the Google Colab environment.
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License.
